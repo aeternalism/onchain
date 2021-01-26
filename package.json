@@ -1,0 +1,46 @@
+{
+  "name": "onchain",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "console": "hardhat console",
+    "chain": "hardhat node",
+    "deploy-ae": "hardhat run scripts/01_deploy_ae.ts",
+    "set-minter": "hardhat run scripts/02_set_minter.ts",
+    "mint-aes": "hardhat run scripts/03_mint_aes.ts",
+    "deploy-aei": "hardhat run scripts/03_deploy_erc721.ts",
+    "deploy-aec": "hardhat run scripts/04_deploy_erc1155.ts",
+    "deploy-aem": "hardhat run scripts/05_deploy_market.ts",
+    "set-collectible": "hardhat run scripts/06_set_collectible.ts",
+    "deploy-exstate": "hardhat run scripts/07_deploy_ex_state.ts",
+    "deploy-exfee": "hardhat run scripts/08_deploy_ex_fee.ts",
+    "deploy-ex": "hardhat run scripts/09_deploy_ex.ts"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-solhint": "^2.0.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/hardhat-upgrades": "^1.4.3",
+    "@typechain/ethers-v5": "^5.0.0",
+    "chai": "^4.2.0",
+    "dotenv": "^8.2.0",
+    "ethereum-waffle": "^3.2.1",
+    "ethers": "^5.0.23",
+    "hardhat": "^2.0.4",
+    "hardhat-gas-reporter": "^1.0.3",
+    "hardhat-typechain": "^0.3.4",
+    "ts-generator": "^0.1.1",
+    "typechain": "^4.0.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.3.0",
+    "@openzeppelin/contracts-upgradeable": "^3.3.0",
+    "@types/chai": "^4.2.14",
+    "@types/mocha": "^8.0.4",
+    "@types/node": "^14.14.10",
+    "ts-node": "^9.1.0",
+    "typescript": "^4.1.2"
+  }
+}
