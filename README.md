@@ -8,20 +8,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/aeternalism/ERC20">
+  <a href="https://github.com/aeternalism/onchain">
     <img src="https://avatars0.githubusercontent.com/u/75020642" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">AEternalism ERC20</h3>
+  <h3 align="center">AEternalism Marketplace</h3>
 
   <p align="center">
     Trading token, DAO fueled for AEternalism NFT marketplace system.
     <br />
     <a href="https://aeternalism.com">View Demo</a>
     ·
-    <a href="https://github.com/aeternalism/ERC20/issues">Report Bug</a>
+    <a href="https://github.com/aeternalism/onchain/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aeternalism/ERC20/issues">Request Feature</a>
+    <a href="https://github.com/aeternalism/onchain/issues">Request Feature</a>
   </p>
 </p>
 
@@ -29,13 +29,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is ERC20 token for AEternalism NFT marketplace system. Built with openzeppelin/contracts 3.
+Smart contracts powered AEternalism NFT marketplace system. Built with openzeppelin/contracts 3.
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/aeternalism/ERC20/issues) for a list of proposed features (and known issues).
-
+See the [open issues](https://github.com/aeternalism/onchain/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -63,19 +62,19 @@ Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 
 Le Brian - [Email](mailto:lebrian@aeternalism.com)
 
-Project Link: [https://github.com/aeternalism/ERC20](https://github.com/aeternalism/ERC20)
+Project Link: [https://github.com/aeternalism/onchain](https://github.com/aeternalism/onchain)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/aeternalism/ERC20.svg?style=for-the-badge
-[contributors-url]: https://github.com/aeternalism/ERC20/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/aeternalism/ERC20.svg?style=for-the-badge
-[forks-url]: https://github.com/aeternalism/ERC20/network/members
-[stars-shield]: https://img.shields.io/github/stars/aeternalism/ERC20.svg?style=for-the-badge
-[stars-url]: https://github.com/aeternalism/ERC20/stargazers
-[issues-shield]: https://img.shields.io/github/issues/aeternalism/ERC20.svg?style=for-the-badge
-[issues-url]: https://github.com/aeternalism/ERC20/issues
-[license-shield]: https://img.shields.io/github/license/aeternalism/ERC20.svg?style=for-the-badge
-[license-url]: https://github.com/aeternalism/ERC20/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/aeternalism/onchain.svg?style=for-the-badge
+[contributors-url]: https://github.com/aeternalism/onchain/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/aeternalism/onchain.svg?style=for-the-badge
+[forks-url]: https://github.com/aeternalism/onchain/network/members
+[stars-shield]: https://img.shields.io/github/stars/aeternalism/onchain.svg?style=for-the-badge
+[stars-url]: https://github.com/aeternalism/onchain/stargazers
+[issues-shield]: https://img.shields.io/github/issues/aeternalism/onchain.svg?style=for-the-badge
+[issues-url]: https://github.com/aeternalism/onchain/issues
+[license-shield]: https://img.shields.io/github/license/aeternalism/onchain.svg?style=for-the-badge
+[license-url]: https://github.com/aeternalism/onchain/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
